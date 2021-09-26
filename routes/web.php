@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+/**otra */
 Route::view('/', 'welcome')->name('welcome');
 Route::view('/calculadora', 'calculadora')->name('calculadora');
 Route::view('/roles', 'roles')->name('roles');
